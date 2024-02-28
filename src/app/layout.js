@@ -3,7 +3,7 @@ import '@radix-ui/themes/styles.css';
 import { Theme } from '@radix-ui/themes';
 
 export const metadata = {
-  title: "Feefty admin test",
+  title: "user admin test",
   description: "Nor's take",
 };
 
