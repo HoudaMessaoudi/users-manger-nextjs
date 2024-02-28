@@ -1,4 +1,4 @@
-# Feefty admin test
+# User manager
 
 [Github Repository](https://github.com/Feefty/feefty-admin-test)
 
@@ -11,10 +11,10 @@ A crud user manager app with nextJS prisma focusing on server actions
 
 
 
-![Users](docs/outcome/list.PNG)
+![Users](docs/outcome/list_user.PNG)
 
-![Users Edit](docs/outcome/edit.png)
-![toast](docs/outcome/toast.png)
+![Users Edit](docs/outcome/edit_user.png)
+![toast](docs/outcome/toast_confirmation.png)
 
 ## Stack
 
