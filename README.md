@@ -11,8 +11,9 @@ A crud user manager app with nextJS prisma focusing on server actions
 
 ![Users](docs/outcome/list_user.PNG)
 
-![Users Edit](docs/outcome/edit_user.png)
-![toast](docs/outcome/toast_confirmation.png)
+![Users Edit](docs/outcome/edit_user.PNG)
+
+![toast](docs/outcome/delete_confirmation.PNG)
 
 ## Stack
 
